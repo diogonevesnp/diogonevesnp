@@ -40,7 +40,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       />
     </a>
-    <a href="mailto:[SEU_EMAIL_AQUI]" target="_blank">
+    <a href="mailto:diogonevesnp@gmail.com" target="_blank">
       <img 
         alt="Email" 
         title="Entre em contato" 
