@@ -109,6 +109,6 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
   <img 
     alt="GitHub Streak"
     title="Sequência de Contribuições"
-    src="https://github-readme-streak-stats.herokuapp.com?user=diogonevesnp&theme=dark&locale=pt_BR" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=diogonevesnp&theme=dracula&locale=pt_BR" 
   />
 </p>
