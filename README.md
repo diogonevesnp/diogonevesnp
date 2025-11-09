@@ -12,7 +12,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
         <img alt="youtube views" title="Vizualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC37Ggvz0i2wwBatn3OAPPNg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> 
     <a href="https://github.com/diogonevesnp?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style-for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
     <a href="https://github.com/diogonevesnp?tab=followers">
         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/diogonevesnp?color=8A2BE2&labelColor=6A1BAA&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
@@ -29,7 +29,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 🤖 Linguagens e Tecnologias
 
-<table style="border: none;">
+<table style="border: none;" border="0">
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/><br><strong>Python</strong>
@@ -47,43 +47,54 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 📊 Estatísticas
 
-<div align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=diogonevesnp&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
-  />
-  &nbsp;
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
-  />
-</div>
+<table style="border: none;" border="0">
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=diogonevesnp&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+      />
+    </td>
+    <td width="5"></td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-<div align="left">
-  <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_1]" target="_blank">
-    <img 
-      height="140" 
-      alt="Projeto 1" 
-      title="Meu melhor projeto"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_1]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_2]" target="_blank">
-    <img 
-      height="140" 
-      alt="Projeto 2" 
-      title="Meu segundo melhor projeto"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_2]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
-    />
-  </a>
-</div>
+<table style="border: none;" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_1]" target="_blank">
+        <img 
+          height="140" 
+          alt="Projeto 1" 
+          title="Meu melhor projeto"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_1]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_2]" target="_blank">
+        <img 
+          height="140" 
+          alt="Projeto 2" 
+          title="Meu segundo melhor projeto"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_2]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
