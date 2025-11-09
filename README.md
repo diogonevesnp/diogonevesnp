@@ -12,7 +12,9 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
         <img alt="youtube views" title="Vizualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC37Ggvz0i2wwBatn3OAPPNg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> 
     <a href="https://github.com/diogonevesnp?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style-for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+        <img alt="alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
     <a href="https://github.com/diogonevesnp?tab=followers">
         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/diogonevesnp?color=8A2BE2&labelColor=6A1BAA&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
@@ -90,4 +92,4 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 ### 🔥 Contribuições e Gráfico
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogonevesnp&theme=dracula" height="350"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogonevesnp&theme=dracula" height="400"/>
