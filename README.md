@@ -53,21 +53,18 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 🤖 Linguagens e Tecnologias
 
-<table style="border: none;">
+<table>
   <tr>
     <td align="center" width="100">
-      <img align="center" alt="Python" title="Python" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <br><strong>Python</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/><br><strong>Python</strong>
     </td>
     <td align="center" width="100">
-      <img align="center" alt="PostgreSQL" title="PostgreSQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-      <br><strong>PostgreSQL</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="100">
-      <img align="center" alt="Git" title="Git" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-      <br><strong>Git</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/><br><strong>Git</strong>
     </td>
-    </tr>
+  </tr>
 </table>
 
 ---
@@ -106,7 +103,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
   />
 </a>
 
---- 
+---
 
 <p align="center">
   <img 
