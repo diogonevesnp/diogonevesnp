@@ -29,70 +29,55 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 🤖 Linguagens e Tecnologias
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/><br><strong>Python</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/><br><strong>Git</strong>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" style="margin-right: 10px"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" style="margin-right: 10px"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" style="margin-right: 10px"/>
+</div>
 
 ---
+
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=diogonevesnp&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
-      />
-    </td>
-    <td width="5"></td>     <td>
-      <img 
-        alt="Top Langs" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
-      />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=diogonevesnp&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+  />
+  &nbsp;
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+  />
+</div>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_1]" target="_blank">
-        <img 
-          height="140" 
-          alt="Projeto 1" 
-          title="Meu melhor projeto"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_1]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_2]" target="_blank">
-        <img 
-          height="140" 
-          alt="Projeto 2" 
-          title="Meu segundo melhor projeto"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_2]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_1]" target="_blank">
+    <img 
+      height="140" 
+      alt="Projeto 1" 
+      title="Meu melhor projeto"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_1]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_2]" target="_blank">
+    <img 
+      height="140" 
+      alt="Projeto 2" 
+      title="Meu segundo melhor projeto"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_2]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+    />
+  </a>
+</div>
 
 ---
 
