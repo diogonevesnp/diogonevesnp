@@ -12,7 +12,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
         <img alt="youtube views" title="Vizualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC37Ggvz0i2wwBatn3OAPPNg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> 
     <a href="https://github.com/diogonevesnp?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style-for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
     <a href="https://github.com/diogonevesnp?tab=followers">
         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/diogonevesnp?color=8A2BE2&labelColor=6A1BAA&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
@@ -29,13 +29,19 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 🤖 Linguagens e Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" style="margin-right: 10px"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" style="margin-right: 10px"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" style="margin-right: 10px"/>
-</div>
+<table style="border: none;">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/><br><strong>Python</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/><br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
