@@ -49,19 +49,24 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 📊 Estatísticas
 
-<div align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=diogonevesnp&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" 
-  />
-  &nbsp;
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" 
-  />
-</div>
+<table width="100%" style="border: none;" border="0">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;" valign="top">
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=diogonevesnp&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" 
+      />
+    </td>
+    <td width="50%" style="border: none;" valign="top" align="right">
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
