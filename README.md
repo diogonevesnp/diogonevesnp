@@ -31,13 +31,20 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/> <b>Python</b>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/> <b>PostgreSQL</b>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/> <b>Git</b>
-</p>
+<div align="left">
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
+    <br><strong>Python</strong>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/>
+    <br><strong>PostgreSQL</strong>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
+    <br><strong>Git</strong>
+  </div>
+</div>
 
 ---
 
