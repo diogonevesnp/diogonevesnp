@@ -31,15 +31,16 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 🤖 Linguagens e Tecnologias
 
+<!-- Adicionado style="border: none;" em TODAS as tags da tabela (table, tr, td) -->
 <table style="border: none;">
-  <tr>
-    <td align="center" width="100">
+  <tr style="border: none;">
+    <td align="center" width="100" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/><br><strong>Python</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br><strong>PostgreSQL</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/><br><strong>Git</strong>
     </td>
   </tr>
