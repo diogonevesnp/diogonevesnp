@@ -68,12 +68,12 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 ### 🚀 Projetos em Destaque
 
 <div align="left">
-  <a href="https://github.com/diogonevesnp/[SEU_MELHOR_PROJETO_1]" target="_blank">
+  <a href="https://github.com/diogonevesnp/sistema_de_cadastros_e_agendamentos_para_clinicas_e_outros" target="_blank">
     <img 
       height="140" 
       alt="Projeto 1" 
       title="Meu melhor projeto"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_1]&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=sistema_de_cadastros_e_agendamentos_para_clinicas_e_outros&show_owner=true&locale=pt-br&bg_color=282a36&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
     />
   </a>
   &nbsp;
