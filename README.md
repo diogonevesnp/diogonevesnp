@@ -1,4 +1,4 @@
-# 👨‍💻 Diogo Neves
+# 👩🏾‍💻 Diogo Neves
 
 **`Desenvolvedor Backend`**
 
@@ -12,7 +12,9 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
         <img alt="youtube views" title="Vizualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC37Ggvz0i2wwBatn3OAPPNg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> 
     <a href="https://github.com/diogonevesnp?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+        <img alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
     <a href="https://github.com/diogonevesnp?tab=followers">
         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/diogonevesnp?color=8A2BE2&labelColor=6A1BAA&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
@@ -29,15 +31,15 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 🤖 Linguagens e Tecnologias
 
-<table style="border: none;" border="0">
-  <tr style="border: none;">
-    <td align="center" width="100" style="border: none;">
+<table style="border: none;">
+  <tr>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/><br><strong>Python</strong>
     </td>
-    <td align="center" width="100" style="border: none;">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br><strong>PostgreSQL</strong>
     </td>
-    <td align="center" width="100" style="border: none;">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/><br><strong>Git</strong>
     </td>
   </tr>
@@ -51,13 +53,13 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=diogonevesnp&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=2E2E2E&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+    src="https://github-readme-stats.vercel.app/api?username=diogonevesnp&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" 
   />
   &nbsp;
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=2E2E2E&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=48D1CC" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" 
   />
 </div>
 
@@ -71,7 +73,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
       height="140" 
       alt="Projeto 1" 
       title="Meu melhor projeto"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=sistema_de_cadastros_e_agendamentos_para_clinicas_e_outros&show_owner=true&locale=pt-br&bg_color=2E2E2E&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=44A3A0" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=sistema_de_cadastros_e_agendamentos_para_clinicas_e_outros&show_owner=true&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" 
     />
   </a>
   &nbsp;
@@ -80,7 +82,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
       height="140" 
       alt="Projeto 2" 
       title="Meu segundo melhor projeto"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_2]&show_owner=true&locale=pt-br&bg_color=2E2E2E&title_color=48D1CC&text_color=f8f8f2&icon_color=48D1CC&border_color=44A3A0" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=[SEU_MELHOR_PROJETO_2]&show_owner=true&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" 
     />
   </a>
 </div>
@@ -89,5 +91,4 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ### 🔥 Contribuições e Gráfico
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogonevesnp&theme=dracula" height="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogonevesnp&theme=dracula" height="400" width="100%"/>
