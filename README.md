@@ -1,4 +1,4 @@
-# 👩🏾‍💻 Diogo Neves
+# 👨🏽‍💻 Diogo Neves
 
 **`Desenvolvedor Backend`**
 
