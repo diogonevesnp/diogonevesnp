@@ -1,16 +1,10 @@
 # 🧑🏾‍💻 Diogo Neves
 
-**`Desenvolvedor Backend`**
+**`QA Engineer | Quality Assurance | Automação de Testes`**
 
-Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube.
+Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonado por tecnologia e focado em garantir a qualidade, confiabilidade e performance de softwares através de processos de testes eficientes e automação.
 
 <p align="left">
-  <a href="https://www.youtube.com/@diogonevesnp?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC37Ggvz0i2wwBatn3OAPPNg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-  </a>
-  <a href="https://www.youtube.com/@diogonevesnp">
-    <img alt="youtube views" title="Visualizações no YouTube" src="https://img.shields.io/youtube/channel/views/UC37Ggvz0i2wwBatn3OAPPNg?style=for-the-badge&logo=youtube&label=Visualiza%C3%A7%C3%B5es&color=E1AD0E&labelColor=C79600"/>
-  </a> 
   <a href="https://github.com/diogonevesnp?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/diogonevesnp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
   </a>
@@ -24,14 +18,19 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Skills em QA e Tecnologia
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python" alt="Python" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="50" title="Pytest" alt="Pytest" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50" title="Playwright" alt="Playwright" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira" alt="Jira" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="SQL" alt="SQL" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" title="Git" alt="Git" style="margin-right: 15px;"/>
 </div>
 
+> **Testes:** Manuais e automatizados com Python (Pytest e Playwright) <br>
+> **Gestão:** Documentação de Bugs (Jira) e metodologias ágeis (Scrum/Kanban).
 <br clear="left"/>
 
 ---
@@ -40,19 +39,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
 
 <div align="left">
   <img alt="GitHub Stats" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogonevesnp&theme=dracula" />
-  &emsp;
-  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogonevesnp&custom_title=Tecnologias&langs_count=6&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c&layout=compact" />
-</div>
-
----
-
-### 🚀 Projeto em Destaque
-
-<div align="left">
-  <a href="https://github.com/diogonevesnp/calculo_destino_producao" target="_blank">
-    <img height="160" alt="Projeto Destaque" src="https://github-readme-stats.vercel.app/api/pin/?username=diogonevesnp&repo=calculo_destino_producao&show_owner=true&locale=pt-br&bg_color=282a36&text_color=f8f8f2&border_color=282a36&title_color=ffb86c&icon_color=ffb86c" />
-  </a>
-</div>
+  &nbsp;&nbsp;
 
 ---
 
