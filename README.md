@@ -15,6 +15,7 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
     <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ### 🛠️ Skills em QA e Tecnologia
@@ -28,12 +29,9 @@ Me chamo Diogo Neves Nunes Paulista, tenho 23 anos e sou natural do Paraná. Atu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" title="Git" alt="Git" style="margin-right: 15px;"/>
 </div>
 
-> **Testes:** Manuais e automatizados com Python (Pytest e Playwright) <br>
-> **Gestão:** Documentação de Bugs (Jira) e metodologias ágeis (Scrum/Kanban).
-<br clear="left"/>
-
+> **`Testes: Manuais e automatizados com Python (Pytest e Playwright)`** <br>
+> **`Gestão: Documentação de Bugs (Jira) e metodologias ágeis (Scrum/Kanban)`**.
 ---
-
 ### 📊 Estatísticas
 
 <div align="left">
